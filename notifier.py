@@ -4,3 +4,6 @@ class Notifier:
     
     def notify(self, msg):
         print(msg)
+
+    def message(self, msg):
+        print(msg)
